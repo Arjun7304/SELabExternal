@@ -1,0 +1,28 @@
+Create a folder which contains the created pem file and create a newfolder again the that folder
+Create a html5 basic code in  the newfolder
+GITBASH Commands:
+git init
+git add .
+git commit -m "To be commited"
+git remote add origin (addhttplink)
+git push origin -u master
+
+Terminal Commands:
+ssh command should be pasted which is copied at first
+sudo apt update
+sudo apt install git
+sudo apt-get install docker.io -y
+sudo apt install nano
+git clone (http link)
+ls
+cd (repo name)
+nano webapp
+(in nano file)-
+FROM ngnix:alpine
+COPY . /usr/share/ngnix/html
+
+sudo docker build -t webapp
+sudo docker run -d -p 80:80 webapp
+
+copy the ipv4 public address in the instances:
+paste that in the browser
