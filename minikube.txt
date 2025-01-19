@@ -1,0 +1,22 @@
+minikube start
+minikube status
+kubectl create deployment mynginx --image=nginx
+kubectl get deployment
+kubectl get pods
+kubectl describe pod mynginx-79bb8756c7-fmpzz
+kubectl scale deployment mynginx --replicas=5
+kubectl get deployment
+kubectl expose deployment mynginx --type=NodePort --port=88
+minikube service mynginx --url
+minikube dashboard
+kubectl delete deployment mynginx
+kubectl get pods
+minikube stop
+
+
+# ngios
+
+docker login
+docker pull jasonrivers/nagios:latest
+docker run --name nagios123 -p 8888:80 jasonrivers/nagios:latest
+docker logout
