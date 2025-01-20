@@ -1,0 +1,79 @@
+### 1. *Book Bank*
+#### Scope
+- Management of book inventory and records.
+- User registration for borrowing and returning books.
+- Online tracking of book availability.
+#### Functional Requirements
+- Admin can add, update, and remove books.
+- Users can search and request books.
+- Notifications for due dates and penalties.
+#### Non-Functional Requirements
+- User-friendly interface for borrowers and administrators.
+- Secure and fast access to book records.
+- Scalable to support multiple branches.
+
+### 2. *Online Course Reservation System*
+#### Scope
+- Facilitates enrollment in courses offered by educational institutions.
+- Tracks seat availability and payment status.
+- Generates automated confirmation.
+#### Functional Requirements
+- User account creation and management.
+- Course searching and real-time seat booking.
+- Payment integration and receipt generation.
+#### Non-Functional Requirements
+- Support for high traffic during peak enrollment periods.
+- Data security for personal and payment information.
+- Accessible via web and mobile platforms.
+
+### 3. *E-Ticketing System*
+#### Scope
+- Digital platform for purchasing tickets for events, travel, or shows.
+- Simplifies booking and cancellation processes.
+#### Functional Requirements
+- Ticket availability checks and real-time booking.
+- User authentication for personalized services.
+- Ticket generation and QR code for scanning.
+#### Non-Functional Requirements
+- High availability and minimal downtime.
+- Reliable transaction processing system.
+- Mobile responsiveness for on-the-go access.
+
+### 4. *Recruitment System*
+#### Scope
+- Automates job application and candidate management processes.
+- Connects employers and potential candidates effectively.
+#### Functional Requirements
+- Job posting and search functionalities.
+- Resume parsing and shortlisting of candidates.
+- Interview scheduling and status tracking.
+#### Non-Functional Requirements
+- Scalable database for handling candidate profiles and job listings.
+- Secure handling of sensitive user data.
+- Integration with third-party HR tools.
+
+### 5. *Hospital Management System*
+#### Scope
+- Comprehensive system for managing hospital operations, staff, and patient data.
+- Includes appointments, billing, and inventory.
+#### Functional Requirements
+- Patient registration and medical history tracking.
+- Appointment scheduling and notifications.
+- Billing and invoice generation.
+#### Non-Functional Requirements
+- High data accuracy and reliability.
+- Secure storage of patient records.
+- Fast processing to support emergency cases.
+
+### 6. *Online Banking System*
+#### Scope
+- Platform for customers to manage banking activities online.
+- Covers account management, transactions, and customer support.
+#### Functional Requirements
+- Account creation and secure login.
+- Fund transfers, bill payments, and balance inquiries.
+- Statement downloads and loan application tracking.
+#### Non-Functional Requirements
+- High-level encryption for secure transactions.
+- Consistent performance under high transactional loads.
+- Cross-platform compatibility for web and mobile use.
